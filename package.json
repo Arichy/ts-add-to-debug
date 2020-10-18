@@ -14,7 +14,10 @@
   ],
   "publisher": "arichy",
   "main": "./out/extension.js",
-  "icon": "https://img.ctolib.com/uploadImg/20181120/20181120091945_811.png",
+  "repository": {
+    "url": "https://github.com/Arichy/ts-add-to-debug.git"
+  },
+  "icon": "ts.png",
   "contributes": {
     "commands": [
       {
