@@ -13,6 +13,7 @@
     "onLanguage:typescript"
   ],
   "main": "./out/extension.js",
+  "icon": "https://img.ctolib.com/uploadImg/20181120/20181120091945_811.png",
   "contributes": {
     "commands": [
       {
